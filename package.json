@@ -1,0 +1,16 @@
+{
+  "name": "huddle_tailwindcss",
+  "version": "1.0.0",
+  "description": "A project from frontendmentor to practice my Tailwindcss knowledge",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./dist/output.css",
+    "watch": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "keywords": [],
+  "author": "Dogan Saglam (Dawn)",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
