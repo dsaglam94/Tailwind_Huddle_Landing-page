@@ -4,4 +4,4 @@
 
 It is a project from Frontendmentor which was built with tailwindcss.
 
-- I used this project to practice my tailwindcss knowledge and test it. 
+> I used this project to practice my tailwindcss knowledge and test it. 
